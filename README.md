@@ -24,9 +24,11 @@ Predict if cryptocurrencies are affected by 24-hour or 7-day price changes throu
 
 ## Dependencies 
 
-Pandas
-HVPlot
-Sci-Kit Learn 
++ Pandas
+
++ HVPlot
+
++ Sci-Kit Learn 
 
 
 ## Questions and Answers
@@ -48,8 +50,7 @@ Sci-Kit Learn
 
    The best value for 'k' using the PCA data is 4 clusters.
    ![elbow_curve_pca_data]      
-   (https://github.com/kgregart/CryptoClustering/assets/153472472/428111b9-4d69-4572-95f4- 
-   d664a4415a7d)
+   (https://github.com/kgregart/CryptoClustering/assets/153472472/428111b9-4d69-4572-95f4-d664a4415a7d)
 
 7. Does it differ from the best k value found using the original data?
 
@@ -63,11 +64,9 @@ Sci-Kit Learn
    clusters provide more defined segments.
 
    ![scatter_plot_original_data]
-   (https://github.com/kgregart/CryptoClustering/assets/153472472/59e3e105-aebb-4db3-9f20-
-   abe6184eee15)
+   (https://github.com/kgregart/CryptoClustering/assets/153472472/59e3e105-aebb-4db3-9f20-abe6184eee15)
 
    ![scatter_plot_pca_data]
-   (https://github.com/kgregart/CryptoClustering/assets/153472472/993717db-d636-49fd-a72d-
-   2a41e57e68a8)
+   (https://github.com/kgregart/CryptoClustering/assets/153472472/993717db-d636-49fd-a72d-2a41e57e68a8)
 
 
