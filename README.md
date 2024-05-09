@@ -1,1 +1,42 @@
-# CryptoClustering
+Crypto Clustering with Machine Learning
+
+Objective
+
+Predict if cryptocurrencies are affected by 24-hour or 7-day price changes through unsupervised machine learning using Python.
+
+
+Instructions
+
+1. Prepare the Data:  Load, scale and create a DataFrame
+
+2. Find the best value for k using the original scaled DataFrame applying the elbow method to find the best value for k.
+
+3. Cluster Cryptocurrencies with K-means using the original scaled data.
+
+4. Optimize clusters with Principal Component Analysis
+using the original scaled DataFrame, perform a PCA and reduce the features to three principal components.
+
+5. Find the best value for k with the PCA data using the elbow method to find the best value for k.
+
+6. Cluster Cryptocurrencies with K-means using the PCA data to find the best value for k.
+
+
+Libraries and Dependencies 
+
+import pandas as pd
+import hvplot.pandas
+from sklearn.cluster import KMeans
+from sklearn.decomposition import PCA
+from sklearn.preprocessing import StandardScaler
+
+
+
+Findings
+
+What is the best value for k?
+What is the total explained variance of the three principal components?
+What is the best value for k when using the PCA data?
+Does it differ from the best k value found using the original data?
+What is the impact of using fewer features to cluster the data using K-Means?
+
+Conclusion
