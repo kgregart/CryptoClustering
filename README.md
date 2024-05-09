@@ -9,11 +9,11 @@ Predict if cryptocurrencies are affected by 24-hour or 7-day price changes throu
 
 ## Instructions
 
-1. Prepare the Data:  Load, scale and create a DataFrame
+1. Prepare the Data:  Load, scale and create a DataFrame.
 
-2. Apply the elbow method to find the best value for k using with the original scaled dataset put into a DataFrame.
+2. Apply the elbow method to find the best value for k using the DataFrame containing the original scaled dataset.
 
-3. Cluster Cryptocurrencies with K-means using the original scaled dataset.
+3. Cluster Cryptocurrencies with K-means using the DataFrame containing the original scaled dataset.
 
 4. Optimize clusters with Principal Component Analysis using the original scaled DataFrame and reduce the features down to three principal components.
 
