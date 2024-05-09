@@ -1,8 +1,8 @@
 # Crypto Clustering with Machine Learning
 
-** Objective **
+## Objective 
 
-### Predict if cryptocurrencies are affected by 24-hour or 7-day price changes through unsupervised machine learning using Python.
+Predict if cryptocurrencies are affected by 24-hour or 7-day price changes through unsupervised machine learning using Python.
 
 ![cryptocurrency_price_change_graph](https://github.com/kgregart/CryptoClustering/assets/153472472/fb900b58-26e9-4525-bc46-c3787ba6d145)
 
