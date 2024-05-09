@@ -1,4 +1,4 @@
-*Crypto Clustering with Machine Learning*
+*Crypto Clustering with Machine Learning
 
 ##Objective
 
