@@ -62,6 +62,7 @@ Predict if cryptocurrencies are affected by 24-hour or 7-day price changes throu
 
    ![scatter_plot_original_data](https://github.com/kgregart/CryptoClustering/assets/153472472/59e3e105-aebb-4db3-9f20-abe6184eee15)
 
-   ![scatter_plot_pca_data](https://github.com/kgregart/CryptoClustering/assets/153472472/993717db-d636-49fd-a72d-2a41e57e68a8)
+   ![scatter_plot_pca_data](https://github.com/kgregart/CryptoClustering/assets/153472472/afe972dd-2807-48be-877f-4eee9bdb753f)
+
 
 
