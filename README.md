@@ -56,9 +56,7 @@ Predict if cryptocurrencies are affected by 24-hour or 7-day price changes throu
 9. What is the impact of using fewer features to cluster the data using K-Means?
 
    **Conlusion:**
-   Visually analyzing and comparing the cluster analysis results illustrates   
-   using the PCA data with fewer features is the ideal model for analysis as the tighter 
-   clusters provide more defined segments.
+   Visually analyzing and comparing the cluster analysis results illustrates using the PCA data with fewer features is      the ideal model for analysis as the tighter clusters provide more defined segments.
 
    ![scatter_plot_original_data](https://github.com/kgregart/CryptoClustering/assets/153472472/59e3e105-aebb-4db3-9f20-abe6184eee15)
 
